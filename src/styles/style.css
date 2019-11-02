@@ -1,0 +1,26 @@
+.navbar-default {
+  background: linear-gradient(90deg, #96c74f 0%, #3fbb96 100%);
+}
+
+header {
+  padding: 150px 0 30px 0;
+  background: linear-gradient(90deg, #96c74f 0%, #3fbb96 100%);
+}
+
+.carousel-caption {
+  position: relative;
+  left: 0;
+  top: 0;
+}
+
+#course {
+  padding: 80px 0;
+}
+
+.courseInfo {
+  font-size: 12px;
+}
+
+footer {
+  padding: 20px 0;
+}
